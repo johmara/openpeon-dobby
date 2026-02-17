@@ -16,12 +16,12 @@
         {
           "file": "sounds/dobby-ready.wav",
           "label": "Dobby is here to help, Master!",
-          "sha256": ""
+          "sha256": "3e61b05130a54b931897c695a4c35c4c7551d46f6d632fc3388c0d13e4d8e49a"
         },
         {
           "file": "sounds/dobby-hello.wav",
           "label": "Dobby is free to serve!",
-          "sha256": ""
+          "sha256": "9dfe821fc4b1e3cacef99c9a20a77bdbc3429691bb892572d6e5d7e028650256"
         }
       ]
     },
@@ -30,7 +30,7 @@
         {
           "file": "sounds/dobby-done.wav",
           "label": "Task completed, sir!",
-          "sha256": ""
+          "sha256": "aa11e86dbcfa556042ef6bc93bf58bd8aa7d896dc48341baf4035acefb99bb6d"
         }
       ]
     },
@@ -39,7 +39,7 @@
         {
           "file": "sounds/dobby-difficult.wav",
           "label": "This is difficult for Dobby!",
-          "sha256": ""
+          "sha256": "5fe7f13f2e9e6d2935709407bb5e3b8beeb0b8d6c5fd7dfb5ca0f74c952689b0"
         }
       ]
     },
@@ -48,12 +48,12 @@
         {
           "file": "sounds/dobby-where-to-begin.wav",
           "label": "Where to begin?",
-          "sha256": ""
+          "sha256": "a1af6427e35b64daee6b705700519c33e1a20704fdeb93760f0d6840158fedee"
         },
         {
           "file": "sounds/dobby-understands.wav",
           "label": "Dobby understands!",
-          "sha256": ""
+          "sha256": "59786ccf321c81890694db333fd1d09fbd067f01a8c51408be2e4bde30792ad7"
         }
       ]
     }

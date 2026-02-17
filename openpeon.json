@@ -25,45 +25,11 @@
         }
       ]
     },
-    "task.acknowledge": {
-      "sounds": [
-        {
-          "file": "sounds/dobby-yes.wav",
-          "label": "Yes, Master!",
-          "sha256": ""
-        },
-        {
-          "file": "sounds/dobby-will-do.wav",
-          "label": "Dobby will do it!",
-          "sha256": ""
-        },
-        {
-          "file": "sounds/dobby-right-away.wav",
-          "label": "Right away, sir!",
-          "sha256": ""
-        },
-        {
-          "file": "sounds/dobby-happy-to-help.wav",
-          "label": "Dobby is happy to help!",
-          "sha256": ""
-        }
-      ]
-    },
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/dobby-finished.wav",
-          "label": "Dobby has finished!",
-          "sha256": ""
-        },
-        {
           "file": "sounds/dobby-done.wav",
           "label": "Task completed, sir!",
-          "sha256": ""
-        },
-        {
-          "file": "sounds/dobby-success.wav",
-          "label": "Dobby did it!",
           "sha256": ""
         }
       ]
@@ -71,18 +37,8 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/dobby-failed.wav",
-          "label": "Dobby has failed you!",
-          "sha256": ""
-        },
-        {
-          "file": "sounds/dobby-bad.wav",
-          "label": "Bad Dobby!",
-          "sha256": ""
-        },
-        {
-          "file": "sounds/dobby-sorry.wav",
-          "label": "Dobby is so sorry!",
+          "file": "sounds/dobby-difficult.wav",
+          "label": "This is difficult for Dobby!",
           "sha256": ""
         }
       ]
@@ -90,51 +46,13 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/dobby-what-can-do.wav",
-          "label": "What can Dobby do for you?",
+          "file": "sounds/dobby-where-to-begin.wav",
+          "label": "Where to begin?",
           "sha256": ""
         },
         {
-          "file": "sounds/dobby-listening.wav",
-          "label": "Dobby is listening...",
-          "sha256": ""
-        },
-        {
-          "file": "sounds/dobby-need-help.wav",
-          "label": "Does Master need Dobby's help?",
-          "sha256": ""
-        }
-      ]
-    },
-    "resource.limit": {
-      "sounds": [
-        {
-          "file": "sounds/dobby-cannot.wav",
-          "label": "Dobby cannot do this!",
-          "sha256": ""
-        },
-        {
-          "file": "sounds/dobby-too-much.wav",
-          "label": "Too much for Dobby!",
-          "sha256": ""
-        }
-      ]
-    },
-    "user.spam": {
-      "sounds": [
-        {
-          "file": "sounds/dobby-overwhelmed.wav",
-          "label": "Dobby is overwhelmed!",
-          "sha256": ""
-        },
-        {
-          "file": "sounds/dobby-too-many.wav",
-          "label": "Too many tasks at once!",
-          "sha256": ""
-        },
-        {
-          "file": "sounds/dobby-slow-down.wav",
-          "label": "Please, Master, slow down!",
+          "file": "sounds/dobby-understands.wav",
+          "label": "Dobby understands!",
           "sha256": ""
         }
       ]

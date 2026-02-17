@@ -1,0 +1,143 @@
+{
+  "cesp_version": "1.0",
+  "name": "dobby",
+  "display_name": "Dobby the House-Elf",
+  "version": "1.0.0",
+  "author": {
+    "name": "johmara",
+    "github": "johmara"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "description": "Dobby is here to help! A house-elf themed sound pack for OpenCode featuring Dobby from Harry Potter.",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/dobby-ready.wav",
+          "label": "Dobby is here to help, Master!",
+          "sha256": ""
+        },
+        {
+          "file": "sounds/dobby-hello.wav",
+          "label": "Dobby is free to serve!",
+          "sha256": ""
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/dobby-yes.wav",
+          "label": "Yes, Master!",
+          "sha256": ""
+        },
+        {
+          "file": "sounds/dobby-will-do.wav",
+          "label": "Dobby will do it!",
+          "sha256": ""
+        },
+        {
+          "file": "sounds/dobby-right-away.wav",
+          "label": "Right away, sir!",
+          "sha256": ""
+        },
+        {
+          "file": "sounds/dobby-happy-to-help.wav",
+          "label": "Dobby is happy to help!",
+          "sha256": ""
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/dobby-finished.wav",
+          "label": "Dobby has finished!",
+          "sha256": ""
+        },
+        {
+          "file": "sounds/dobby-done.wav",
+          "label": "Task completed, sir!",
+          "sha256": ""
+        },
+        {
+          "file": "sounds/dobby-success.wav",
+          "label": "Dobby did it!",
+          "sha256": ""
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/dobby-failed.wav",
+          "label": "Dobby has failed you!",
+          "sha256": ""
+        },
+        {
+          "file": "sounds/dobby-bad.wav",
+          "label": "Bad Dobby!",
+          "sha256": ""
+        },
+        {
+          "file": "sounds/dobby-sorry.wav",
+          "label": "Dobby is so sorry!",
+          "sha256": ""
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/dobby-what-can-do.wav",
+          "label": "What can Dobby do for you?",
+          "sha256": ""
+        },
+        {
+          "file": "sounds/dobby-listening.wav",
+          "label": "Dobby is listening...",
+          "sha256": ""
+        },
+        {
+          "file": "sounds/dobby-need-help.wav",
+          "label": "Does Master need Dobby's help?",
+          "sha256": ""
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/dobby-cannot.wav",
+          "label": "Dobby cannot do this!",
+          "sha256": ""
+        },
+        {
+          "file": "sounds/dobby-too-much.wav",
+          "label": "Too much for Dobby!",
+          "sha256": ""
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/dobby-overwhelmed.wav",
+          "label": "Dobby is overwhelmed!",
+          "sha256": ""
+        },
+        {
+          "file": "sounds/dobby-too-many.wav",
+          "label": "Too many tasks at once!",
+          "sha256": ""
+        },
+        {
+          "file": "sounds/dobby-slow-down.wav",
+          "label": "Please, Master, slow down!",
+          "sha256": ""
+        }
+      ]
+    }
+  }
+}

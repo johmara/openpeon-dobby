@@ -15,12 +15,12 @@
       "sounds": [
         {
           "file": "sounds/dobby-ready.wav",
-          "label": "Dobby is here to help, Master!",
+          "label": "Such an honour to meet you!",
           "sha256": "3e61b05130a54b931897c695a4c35c4c7551d46f6d632fc3388c0d13e4d8e49a"
         },
         {
           "file": "sounds/dobby-hello.wav",
-          "label": "Dobby is free to serve!",
+          "label": "Hello!",
           "sha256": "9dfe821fc4b1e3cacef99c9a20a77bdbc3429691bb892572d6e5d7e028650256"
         }
       ]
@@ -29,7 +29,7 @@
       "sounds": [
         {
           "file": "sounds/dobby-done.wav",
-          "label": "Task completed, sir!",
+          "label": "Master has given Dobby a sock!",
           "sha256": "aa11e86dbcfa556042ef6bc93bf58bd8aa7d896dc48341baf4035acefb99bb6d"
         }
       ]
@@ -38,7 +38,7 @@
       "sounds": [
         {
           "file": "sounds/dobby-difficult.wav",
-          "label": "This is difficult for Dobby!",
+          "label": "It is difficult!",
           "sha256": "5fe7f13f2e9e6d2935709407bb5e3b8beeb0b8d6c5fd7dfb5ca0f74c952689b0"
         }
       ]
